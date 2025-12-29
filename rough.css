@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+    height: 80px;
+    width: 100%;
+    background-color: aqua;
+    display:flex;   
+    
+}
+.sec{
+    height: 100px;
+    width: 100%;
+    background-color:rgb(20, 22, 192);
+    display: inline;
+}
+.third{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(143, 17, 155);
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.four{
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+    display:grid;
+}
